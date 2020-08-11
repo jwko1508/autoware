@@ -9,7 +9,10 @@ cuda는 위 주소 설치 방법에 나와있는대로 cuda 10.0까지만 가능
 https://github.com/Autoware-AI
 
 ## KITTI Dataset
+KITTI 홈페이지
 http://www.cvlibs.net/datasets/kitti/
+KITTI를 이용한 저널
+http://www.jkros.org/journal/article.php?code=59345
 
 ### sementics
 http://web.donga.ac.kr/jwjo/Lectures/PL/chap5.pdf
