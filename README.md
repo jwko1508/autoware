@@ -13,3 +13,6 @@ http://www.cvlibs.net/datasets/kitti/
 
 ### sementics
 http://web.donga.ac.kr/jwjo/Lectures/PL/chap5.pdf
+
+## LGSL
+https://github.com/ladc/lgsl
