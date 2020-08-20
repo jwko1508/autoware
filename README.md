@@ -12,6 +12,8 @@ https://github.com/Autoware-AI
 KITTI 홈페이지
 http://www.cvlibs.net/datasets/kitti/
 
+데이터 셋이 카테고리 별로 rawdata 등 여러개로 분류되어있다.
+
 KITTI를 이용한 저널
 http://www.jkros.org/journal/article.php?code=59345
 
